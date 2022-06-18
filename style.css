@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background:url(https://mobimg.b-cdn.net/v2/fetch/7f/7febc8b40fa01b7cb9d0392ec9f74f86.jpeg);
+    
+}
+
+
+main {
+    background-image: linear-gradient(AntiqueWhite, OldLace,AliceBlue);
+    margin:30px 126px 126px 126px;
+    
+    border-style: solid;
+
+}
+
+
+nav {
+    background-image: linear-gradient(AntiqueWhite, OldLace,AliceBlue);
+    height: 100px;
+    margin:126px 126px 0px 126px ;
+    border-style: solid;
+        display: flex;
+    justify-content:space-around;
+
+}
+
+
+a {
+    margin-top: 30px;
+    color: black;
+    font-size: 30px;
+
+}
